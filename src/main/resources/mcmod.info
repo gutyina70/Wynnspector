@@ -1,0 +1,16 @@
+[
+{
+  "modid": "wynnspector",
+  "name": "Wynnspector",
+  "description": "Wynncraft mod for inspecting stuff",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["gutyina70"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
