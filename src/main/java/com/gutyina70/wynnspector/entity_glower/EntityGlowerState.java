@@ -1,7 +1,7 @@
-package com.gutyina70.wynnspector;
+package com.gutyina70.wynnspector.entity_glower;
 
 public enum EntityGlowerState {
-  
+
   None,
   All,
   ArmorstandsOnly,
@@ -10,5 +10,5 @@ public enum EntityGlowerState {
   public EntityGlowerState next() {
     return values()[(ordinal() + 1) % values().length];
   }
-  
+
 }

@@ -1,6 +1,8 @@
-package com.gutyina70.wynnspector;
+package com.gutyina70.wynnspector.entity_glower;
 
 import java.util.List;
+
+import com.gutyina70.wynnspector.Ref;
 
 import org.lwjgl.input.Keyboard;
 

@@ -1,5 +1,6 @@
 package com.gutyina70.wynnspector;
 
+import com.gutyina70.wynnspector.entity_glower.EntityGlower;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 import net.minecraftforge.fml.common.gameevent.TickEvent.ClientTickEvent;
 
