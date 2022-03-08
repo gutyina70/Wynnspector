@@ -6,7 +6,7 @@
       "name": "runClient",
       "request": "launch",
       "mainClass": "net.minecraftforge.legacydev.MainClient",
-      "projectName": "WynnInspect",
+      "projectName": "Wynnspector",
       "cwd": "${workspaceFolder}/run",
       "vmArgs": "-Dforge.logging.console.level\u003ddebug -Dforge.logging.markers\u003dSCAN,REGISTRIES,REGISTRYDUMP",
       "args": "",
